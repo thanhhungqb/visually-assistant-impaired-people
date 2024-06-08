@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Please read the CONTRIBUTING guidelines for more information.
 
 
-https://thanhhungqb.github.io/iaslab/research/
+This is a copy of https://github.com/duongnghia222/Vision-Assistant-Device
 
 Demo
 
